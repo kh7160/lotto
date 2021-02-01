@@ -1,0 +1,20 @@
+url = https://ol.dhlottery.co.kr/olotto/game/execBuy.do
+post
+
+# 2번째
+round: 943
+direct: 172.17.20.52
+nBuyAmount: 2000
+param: [{"arrGameChoiceNum":"4,14,25,28,40,43","genType":"1","alpabet":"A"},{"arrGameChoiceNum":"10,30,32,37,40,45","genType":"1","alpabet":"B"}]
+ROUND_DRAW_DATE: 2020/12/26
+WAMT_PAY_TLMT_END_DT: 2021/12/27
+gameCnt: 2
+
+# 1번째
+round: 943
+direct: 172.17.20.52
+nBuyAmount: 1000
+param: [{"arrGameChoiceNum":"17,27,37,39,44,45","genType":"1","alpabet":"A"}]
+ROUND_DRAW_DATE: 2020/12/26
+WAMT_PAY_TLMT_END_DT: 2021/12/27
+gameCnt: 1
